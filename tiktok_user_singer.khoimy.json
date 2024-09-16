@@ -1,0 +1,88 @@
+{
+    "status": "ok",
+    "data": {
+        "status_code": 0,
+        "user": {
+            "avatar_168x168": {
+                "uri": "tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324",
+                "url_list": [
+                    "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_168x168.webp?lk3s=a5d48078&nonce=43633&refresh_token=6aaf46dc61080196d089b197290dabe3&x-expires=1726664400&x-signature=tiQcTXpYA4hH0r5tnNV%2Bn%2BsT8pg%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_168x168.webp?lk3s=a5d48078&nonce=73195&refresh_token=5c05a8fe35dceb27cc91c34e78765e55&x-expires=1726664400&x-signature=6qRr6yoRpJ%2FMTzyztICy5Carjc0%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_168x168.jpeg?lk3s=a5d48078&nonce=6360&refresh_token=f94bc83d8551071118e8427b01a43cfa&x-expires=1726664400&x-signature=fO95weC85O6CIDnMDjyPnhEI0jw%3D&shp=a5d48078&shcp=2472a6c6"
+                ]
+            },
+            "avatar_300x300": {
+                "uri": "tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324",
+                "url_list": [
+                    "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_300x300.webp?lk3s=a5d48078&nonce=42718&refresh_token=d3acc946c447d8ce0f5402d2513606a2&x-expires=1726664400&x-signature=i6ML72Fb98ltSIzmG0ntJvDb140%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_300x300.webp?lk3s=a5d48078&nonce=55831&refresh_token=a4cf814fda0a9fb446de7bb252387175&x-expires=1726664400&x-signature=%2B9ni%2BVNdsLfCACVzdTYLIAW13RI%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324~c5_300x300.jpeg?lk3s=a5d48078&nonce=91870&refresh_token=15a1d03b0214adf1afc15483872f245c&x-expires=1726664400&x-signature=yeAdiDVJvdKXUskvHfSi8Hz%2FtSU%3D&shp=a5d48078&shcp=2472a6c6"
+                ]
+            },
+            "avatar_larger": {
+                "uri": "tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324",
+                "url_list": [
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=90258&refresh_token=53d9dec77ec88708be75e2c649a42057&x-expires=1726664400&x-signature=%2B8xFFyO7iWmAomqJBKETdC0w4PU%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p9-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=32693&refresh_token=3444cc2d33059a2d8a2c501292c02414&x-expires=1726664400&x-signature=qGcOrIiSTXINHRweCQvLO0dC0cg%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.jpeg?lk3s=a5d48078&nonce=90842&refresh_token=ff4e32cd2394ccefea77a95f601fc891&x-expires=1726664400&x-signature=ClO3GB%2FOrWDLWIzU2UOKNpS8zTU%3D&shp=a5d48078&shcp=2472a6c6"
+                ]
+            },
+            "avatar_medium": {
+                "uri": "tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324",
+                "url_list": [
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=83774&refresh_token=8c172a2e5601396640a8a10fd76aedb1&x-expires=1726664400&x-signature=1X60MKH0Fw4Zco5p8KLmP1hvSuU%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p9-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=35367&refresh_token=54937fbb8c17642abde5a944f294ff66&x-expires=1726664400&x-signature=G7MY4O4tBoGEbTakp183Wqeewx4%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.jpeg?lk3s=a5d48078&nonce=7319&refresh_token=93f258e8c784eded75f1c973970e75b2&x-expires=1726664400&x-signature=wpxfbxToraUlci1iFG4LZ9whBR8%3D&shp=a5d48078&shcp=2472a6c6"
+                ]
+            },
+            "avatar_thumb": {
+                "uri": "tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324",
+                "url_list": [
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=89773&refresh_token=b0e0c890855de190bf463d53e037cce7&x-expires=1726664400&x-signature=Pt2Zcuwcn8xeZ7bUVc5axjt51%2Fc%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.webp?lk3s=a5d48078&nonce=78184&refresh_token=523ef44098374f0f81139c6fabbf5cf4&x-expires=1726664400&x-signature=nhU1l7d%2FXkuq4FBC3k7jcS4m1cM%3D&shp=a5d48078&shcp=2472a6c6",
+                    "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e96bb6534c38bd149867b706f75e7324.jpeg?lk3s=a5d48078&nonce=21005&refresh_token=6a4fbf3d27700101c9efd1117cca66f2&x-expires=1726664400&x-signature=0mN0zkuJYuiqoj0e2ObHc3YILzw%3D&shp=a5d48078&shcp=2472a6c6"
+                ]
+            },
+            "aweme_count": 25,
+            "commerce_user_info": {
+                "ad_experience_entry": false,
+                "ad_experience_text": "",
+                "ad_revenue_rits": null
+            },
+            "follower_count": 974673,
+            "following_count": 2,
+            "nickname": "Khởi My",
+            "original_musician": {
+                "digg_count": 0,
+                "music_count": 324,
+                "music_used_count": 0
+            },
+            "privacy_setting": {
+                "following_visibility": 1
+            },
+            "profile_tab_type": 3,
+            "sec_uid": "MS4wLjABAAAA1P5xxM-IV_GgsgUGsCtrSFubAT2iuWOVYJnbyJuhz9wfVBptCmxDLbvIV6LrvKRG",
+            "share_info": {
+                "share_url": "https://www.tiktok.com/@singer.khoimy?_r=1&_d=e2eikekcclj90h&sec_uid=MS4wLjABAAAA1P5xxM-IV_GgsgUGsCtrSFubAT2iuWOVYJnbyJuhz9wfVBptCmxDLbvIV6LrvKRG&share_author_id=6536106345476145154&sharer_language=en_DE&source=h5_m",
+                "share_desc": "Check out Khởi My! #TikTok",
+                "share_title": "Join TikTok and see what I’ve been up to!"
+            },
+            "short_id": "0",
+            "show_artist_playlist": 1,
+            "signature_language": "un",
+            "tab_settings": {
+                "private_tab": {
+                    "private_tab_style": 1,
+                    "show_private_tab": false
+                }
+            },
+            "total_favorited": 3199900,
+            "uid": "6536106345476145154",
+            "unique_id": "singer.khoimy",
+            "video_icon": {
+                "uri": "",
+                "url_list": []
+            }
+        }
+    }
+}
